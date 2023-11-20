@@ -8,6 +8,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# GitHub Stats
+
+![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true)
+
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 
 <!--
