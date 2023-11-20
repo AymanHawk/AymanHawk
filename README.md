@@ -5,7 +5,7 @@
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/AymanHawk/)
 - 🌐 Portfolio: [Your Portfolio](https://www.aymanhaque.com) //under contruction 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # GitHub Stats
 
