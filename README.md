@@ -5,7 +5,7 @@
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/AymanHawk/)
 - 🌐 Portfolio: [Your Portfolio](https://www.aymanhaque.com) //under contruction 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats color=A3C78F)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk color=A3C78F)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # GitHub Stats
@@ -15,7 +15,7 @@
 
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk)](https://github.com/DenverCoder1/github-readme-streak-stats color=A3C78F)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
