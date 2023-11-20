@@ -2,6 +2,9 @@
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **AymanHawk/AymanHawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
