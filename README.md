@@ -11,7 +11,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk&background=30,4ECDC4,4ECDC4)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AymanHawk)
 
 ![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AymanHawk)
 
@@ -40,5 +39,6 @@ Here are some ideas to get you started:
 
 ![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true&bg_color=30,4ECDC4,4ECDC4)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AymanHawk)
 
 -->
