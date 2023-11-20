@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
+## Contact Me 
+- 📧 Email: ahaque2002@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/AymanHawk/)
+- 🌐 Portfolio: [Your Portfolio](https://www.aymanhaque.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,4 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
+
+
 -->
