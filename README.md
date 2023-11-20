@@ -9,8 +9,6 @@
 
 # GitHub Stats
 
-![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true&bg_color=30,4ECDC4,4ECDC4)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk&background=30,4ECDC4,4ECDC4)
 
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanHawk)](https://github.com/anuraghazra/github-readme-stats)
+![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true&bg_color=30,4ECDC4,4ECDC4)
 
 
 -->
