@@ -9,9 +9,9 @@
 
 # GitHub Stats
 
-![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true&bg_color=30,e96443,904e95)
+![AymanHawk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanHawk&show_icons=true&count_private=true&bg_color=30,4ECDC4,4ECDC4)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk&background=30,e96443,904e95)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk&background=30,4ECDC4,4ECDC4)
 
 
 
