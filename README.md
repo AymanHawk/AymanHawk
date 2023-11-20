@@ -12,9 +12,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AymanHawk&background=30,4ECDC4,4ECDC4)
 
 
-![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AymanHawk)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AymanHawk)
 
 ![](https://komarev.com/ghpvc/?username=AymanHawk)
 
@@ -41,4 +38,7 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AymanHawk)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AymanHawk)
+![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AymanHawk)
 -->
+
