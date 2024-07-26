@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Contact Me 
+# Contact Me 
 - 📧 Email: developer@aymanhaque.com && ahaque2002@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/AymanHawk/)
 - 🌐 Portfolio: [My Portfolio](https://www.aymanhaque.com) //under contruction 
